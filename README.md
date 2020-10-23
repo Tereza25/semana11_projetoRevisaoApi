@@ -3,7 +3,7 @@
 ### Projeto de revisão
 
 Que tal montarmos nossa própria playlist de músicas? Na nossa playlist poderemos favoritar nossas músicas e ver quais artistas tocam a música.
-
+[
     {
         "id": 1,
         "title": "control",

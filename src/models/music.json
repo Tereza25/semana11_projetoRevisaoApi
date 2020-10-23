@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "control",
+        "duration": "05:53",
+        "launchYear": "1986",
+        "favorited" : true,
+        "artists": "Janet Jackson"       
+    },
+    {
+        "id": 2,
+        "title": "scream",
+        "duration": "04:48",
+        "launchYear": "1995",
+        "favorited" : true,
+        "artists": ["Michael Jackson, Janet Jackson"]
+    },
+    {
+        "id": 3,
+        "title": "Thriller",
+        "duration": "05:58",
+        "launchYear": "1982",
+        "favorited" : true,
+        "artists": "Michael Jackson"       
+    },
+    {
+        "id": 4,
+        "title": "Bad",
+        "duration": "04:08",
+        "launchYear": "1987",
+        "favorited" : true,
+        "artists": "Michael Jackson"
+    },
+    {
+        "id": 5,
+        "title": "All for you",
+        "duration": "05:30",
+        "launchYear": "2001",
+        "favorited" : true,
+        "artists": "Janet Jackson"
+    },
+    {
+        "id": 6,
+        "title": "Feedback",
+        "duration": "03:38",
+        "launchYear": "2008",
+        "favorited" : true,
+        "artists": "Janet Jackson"
+    },
+    {
+        "id": 7,
+        "title": "Unbreakeable",
+        "duration": "06:25",
+        "launchYear": "2001",
+        "favorited" : false,
+        "artists": "Michael Jackson"
+    },
+    {
+        "id": 8,
+        "title": "Like A Prayer",
+        "duration": "05:37",
+        "launchYear": "1989",
+        "favorited" : true,
+        "artists": "Madonna"
+    },
+    {
+        "id": 9,
+        "title": "Kiss",
+        "duration": "03:55",
+        "launchYear": "1988",
+        "favorited" : true,
+        "artists": "Prince"
+    },
+    {
+        "id": 10,
+        "title": "Vogue",
+        "duration": "04:53",
+        "launchYear": "1990",
+        "favorited" : true,
+        "artists": "Madonna"
+    }
+] 
